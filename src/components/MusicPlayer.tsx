@@ -47,7 +47,6 @@ export const MusicPlayer = () => {
       <audio
         ref={audioRef}
         loop
-        src="src/Assests/music.mp3"
         className="hidden"
       />
     </div>
