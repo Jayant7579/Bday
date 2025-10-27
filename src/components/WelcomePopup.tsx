@@ -57,7 +57,7 @@ export const WelcomePopup = () => {
           <div className="aspect-video overflow-hidden rounded-lg shadow-xl transform hover:scale-105 transition-transform duration-300 relative group">
             <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             <img
-              src="src\Assests\Gallery\lpopup.jpg"
+              src="\lpopup.jpg"
               alt="Birthday celebration"
               className="w-full h-full object-cover"
             />
